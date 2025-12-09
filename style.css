@@ -20,7 +20,7 @@ body {
   overflow-x: hidden;
 }
 .topLandingTexttoSpeech {
-  background: url("/Assets/Images/SPTBG.png");
+  background: url("assets/images/SPTBG.png");
   background-size: cover;
   height: auto;
   width: 100%;
